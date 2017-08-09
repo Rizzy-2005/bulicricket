@@ -1,4 +1,4 @@
-# minicricket
+# bulicricket
 
 [Web](https://bulicricket.herokuapp.com/) 
 

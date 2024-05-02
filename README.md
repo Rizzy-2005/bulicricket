@@ -1,4 +1,4 @@
-# Rishicricket
+# Rishisathyacricket
 
 [Web](https://bulicricket.herokuapp.com/) 
 
